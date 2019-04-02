@@ -2,10 +2,10 @@
 
 //session_start();
 
-$servername = "localhost";
-$username = "root";
-$password = "root";
-$dbname = "cst-323 activities";
+$servername = "us-cdbr-iron-east-03.cleardb.net";
+$username = "b963894920a8bb";
+$password = "2bb61c8660c1f0e";
+$dbname = "heroku_998e6b96de8d903";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
